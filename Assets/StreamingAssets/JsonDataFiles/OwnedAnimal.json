@@ -1,0 +1,40 @@
+{
+    "AllAnimals": [
+        {
+            "animalId": "5f9f3392-2535-49f9-9e65-f7d96a881d8f",
+            "animalType": "Sheep",
+            "sex": 1,
+            "breedingRate": 0.0,
+            "growthRate": 100.0,
+            "satiety": 480.0,
+            "health": 500.0,
+            "weight": 0.0,
+            "attrition": 0.0,
+            "wool": 0.0
+        },
+        {
+            "animalId": "f378b1da-a8ee-4c5c-8478-e0cfc11716d0",
+            "animalType": "Sheep",
+            "sex": 1,
+            "breedingRate": 0.0,
+            "growthRate": 100.0,
+            "satiety": 480.0,
+            "health": 500.0,
+            "weight": 0.0,
+            "attrition": 0.0,
+            "wool": 0.0
+        },
+        {
+            "animalId": "5ca7d6fd-181d-4686-bb4a-f964ce572f33",
+            "animalType": "Ram",
+            "sex": 0,
+            "breedingRate": 0.0,
+            "growthRate": 100.0,
+            "satiety": 720.0,
+            "health": 750.0,
+            "weight": 0.0,
+            "attrition": 0.0,
+            "wool": 0.0
+        }
+    ]
+}

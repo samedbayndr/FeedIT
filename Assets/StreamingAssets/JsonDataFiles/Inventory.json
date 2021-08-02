@@ -1,0 +1,14 @@
+{
+    "sheep": 2,
+    "ram": 1,
+    "lamb": 0,
+    "chicken": 0,
+    "rooster": 0,
+    "egg": 0,
+    "dog": 0,
+    "chickenMeat": 0.0,
+    "roosterMeat": 0.0,
+    "ramMeat": 0.0,
+    "sheepMeat": 0.0,
+    "wool": 0.0
+}

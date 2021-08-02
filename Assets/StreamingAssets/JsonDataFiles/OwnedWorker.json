@@ -1,0 +1,14 @@
+{
+    "AllWorkers": [
+        {
+            "workerId": "810b465c-5edf-4b36-bf03-817f219a4dc4",
+            "workerType": "NormalWorker",
+            "satiety": 100.0,
+            "health": 100.0,
+            "attrition": 0.0,
+            "salary": 10.0,
+            "startDayOfWork": 0,
+            "efficiencyModifier": 1.0
+        }
+    ]
+}

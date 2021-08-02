@@ -1,0 +1,30 @@
+{
+    "AllBoughtBuilds": [
+        {
+            "buildName": "SheepBarn",
+            "id": "28520297-520e-4c0c-82af-90ad365263e0",
+            "maintenanceCost": 0.0,
+            "buildCost": 7500.0,
+            "posX": 56.75608825683594,
+            "posY": -0.5487602353096008,
+            "posZ": -329.78662109375,
+            "rotX": 2.1855726117792075e-8,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "rotW": 1.0
+        },
+        {
+            "buildName": "WorkerHouse",
+            "id": "e94ec4fb-2fbd-41b7-a874-de0fd3a8fe7c",
+            "maintenanceCost": 0.0,
+            "buildCost": 5000.0,
+            "posX": 71.55412292480469,
+            "posY": -0.5487602353096008,
+            "posZ": -331.64013671875,
+            "rotX": 2.1855726117792075e-8,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "rotW": 1.0
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grassland
+  - Grid
+  - Tussock
+  - Grass
+  - Shepherd
+  - Farm
+  - BuildObstacle
+  - Fence
+  - SheepBarn
+  - ChickenCoop
+  - WorkerHouse
+  - NormalWorker
+  - Sheep
+  - Lamb
+  - Ram
+  - Chicken
+  - Rooster
+  - FarmGate
+  - Estate
+  - TownRoad
+  - ForSale
+  - PastureRoad
+  - DogHouse
+  - Dog
+  - ShepherdSkill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - PastureAnimal
+  - Build
+  - Worker
+  - FarmAnimal
+  - CameraLimit
+  - Pet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

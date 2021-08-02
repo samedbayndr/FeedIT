@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11748bc29d5becc4f915e657da494d9a, type: 3}
+  m_Name: DogHouse
+  m_EditorClassIdentifier: 
+  objectName: Dog House
+  buildingPrefab: {fileID: 6021550482911179248, guid: 2d721d0dbe9103746b7a5529d4ba843a,
+    type: 3}
+  buildTime: 0
+  cost: 5000
+  altitude: 0

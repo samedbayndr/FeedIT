@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c9ba6d4d4a3e364ab9dc1a8420c5edd, type: 3}
+  m_Name: Lamb
+  m_EditorClassIdentifier: 
+  animalName: Lamb
+  animalType: Lamb
+  animalPrefab: {fileID: 334582082007378137, guid: d5dfc3321c7852e43914dd61908bd4cf,
+    type: 3}
+  cost: 300
