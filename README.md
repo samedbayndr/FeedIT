@@ -22,5 +22,7 @@ The main purpose of the game is to meet the needs of your farm far from the city
 KEYS:
 
 W,A,S,D = Camera movements
+
 C = Forces the animals to follow the shepherd for a certain period of time when take the animals out to graze
+
 V = Shepherd call animals when take the animals out to graze
