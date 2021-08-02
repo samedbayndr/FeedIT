@@ -74,8 +74,9 @@ public class CameraManager : MonoBehaviour
         set
         {
             //Buraya dikkat et! allCameras. Count eğer hata veriyorsa veya sıfır geliyorsa önce CameraValue initiliaze oluyor!!!! 
-            if (allCameras.Count == 0)
+            //if (allCameras.Count == 0)
             _cameraValue = value % allCameras.Count;
+            //_cameraValue = value;
             if (_cameraValue == 0)
                 changeCameraToFree();
             else if (_cameraValue == 1)
