@@ -1,5 +1,5 @@
 # FeedIT
- FeedIT is a game developed for PC platform. Documentation, implementation and testing took an average of three month. Presented as a final project. The project was published with the permission of my team.
+ FeedIT is a game developed for PC platform. Documentation, implementation and testing took an average of three month. Presented as a graduation project. The project was published with the permission of my team.
 
 Trailer: https://youtu.be/cxcxcDgcwI4
 
